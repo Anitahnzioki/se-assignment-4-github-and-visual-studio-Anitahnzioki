@@ -70,7 +70,7 @@ Its use: Set breakpoints to pause execution, use the watch windows to inspect va
 Collaborative Development using GitHub and Visual Studio:
 Discuss how GitHub and Visual Studio can be used together to support collaborative development. Provide a real-world example of a project that benefits from this integration.
 intergration of the two: Allows developers to work together on code through shared repositories, manage versions, and review code within the IDE.
-Examples: In a team project, developers use GitHub for version control and collaboration, while Visual Studio is used to write, debug, and test code, streamlining the development process and improving productivity.
+Real life Examples: In a team project, developers use GitHub for version control and collaboration, while Visual Studio is used to write, debug, and test code, streamlining the development process and improving productivity.
 
 
 
